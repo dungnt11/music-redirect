@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif "Roboto";
+  background: #1ed760;
+}
+
+.text a {
+  color: white;
+  font-size: 2rem;
+  transition: 0.3s;
+}
+
+.text a:hover {
+  color: dodgerblue;
+  transform: translateX(3px);
+  font-size: 1.7rem;
+  text-decoration: none;
+}
